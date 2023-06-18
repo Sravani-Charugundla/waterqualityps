@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118267494550",
+    "project_id": "finalwater-839f9",
+    "storage_bucket": "finalwater-839f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118267494550:android:a8072e7172a771930f82b7",
+        "android_client_info": {
+          "package_name": "com.example.waterqualityps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118267494550-ail6m4r22bmhvqla6rtoiijqceags0lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwfm7X3FOUGMxEKPiQKzI2UXqoq07vS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118267494550-ail6m4r22bmhvqla6rtoiijqceags0lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
